@@ -3,6 +3,7 @@
     "start": "time",
     "end": "time",
     "title": "title",
-    "url": "Amazon URL"
+    "url": "Amazon URL",
+    "password": ""
   }]
 }
