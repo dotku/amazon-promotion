@@ -1,8 +1,8 @@
 {
-  "items": [
-    "start": "time",
-    "end": "time",
-    "title": "title",
-    "url": "Amazon URL"
-  ]
+  "items": [{
+    "start" : "time",
+    "end" : "time",
+    "title" : "title",
+    "url" : "Amazon URL"
+  }]
 }
